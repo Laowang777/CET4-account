@@ -10,7 +10,7 @@ from urllib.parse import quote,unquote
     [13:15] 座位号
 '''
 #姓名
-name = ["王富焘","陈佳欣","李冬梅","温元周","李才燃"]
+name = ["张三","李四","王五"]
 #url
 url = "http://cache.neea.edu.cn/cet/query?data=CET4_191_DANGCI%2C"
 #header
